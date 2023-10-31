@@ -11,77 +11,90 @@
       "name": "Alura latam",
       "imageUrl": "https://avatars.githubusercontent.com/u/4975968?s=280&v=4",
       "price": "5",
-      "id": 6,
-      "description": ""
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 6
     },
     {
       "name": "Flash",
       "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_643523-MLA49180554005_022022-O.webp",
       "price": "16845",
-      "id": 7,
-      "description": "Funko Flash"
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 7
     },
     {
       "name": "Capitán America",
       "imageUrl": "https://m.media-amazon.com/images/I/51aqEMfw9KL._AC_SY879_.jpg",
       "price": "1652",
-      "id": 8,
-      "description": "Apenas um teste!"
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 8
     },
     {
       "name": "Super Man",
       "imageUrl": "https://juguetesdecoleccion.com/wp-content/uploads/muneco-superman-funko-pop.jpg",
       "price": "20",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
       "id": 14
     },
     {
       "name": "Darth Vader",
       "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_975969-MLA46467090682_062021-O.webp",
       "price": "25",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
       "id": 15
-    },
+  },
     {
       "name": "Flash",
       "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_643523-MLA49180554005_022022-O.webp",
       "price": "25,99",
-      "id": 16,
-      "description": "25"
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
+      "id": 16
     },
     {
       "name": "Batman",
       "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_640262-MCO47330060660_092021-O.webp",
       "price": "60",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
       "id": 17
+
     },
     {
       "name": "Hulk",
       "imageUrl": "https://m.media-amazon.com/images/I/516X0YLRV+L._AC_SY879_.jpg",
       "price": "30",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
       "id": 18
+
     },
     {
       "name": "Hombre araña",
       "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_620343-MLA45333647274_032021-O.webp",
       "price": "50",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
       "id": 19
     },
     {
       "name": "Capitán America",
       "imageUrl": "https://m.media-amazon.com/images/I/51aqEMfw9KL._AC_SY879_.jpg",
       "price": "50",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
       "id": 20
+
     },
     {
       "name": "Super Man",
       "imageUrl": "https://juguetesdecoleccion.com/wp-content/uploads/muneco-superman-funko-pop.jpg",
       "price": "80",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
       "id": 21
+
     },
     {
       "name": "Flash",
       "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_643523-MLA49180554005_022022-O.webp",
       "price": "85",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam",
       "id": 22
+
     }
  
   ]
